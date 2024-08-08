@@ -2,7 +2,7 @@
 
 ## Overview
 
-**WebTableScraper** is a Python-based tool designed to scrape data from XML sitemaps. It extracts URLs and the last modified date from a sitemap index and nested sitemaps, saving the results into a CSV or Excel file.
+**Sitemap XML Scraper** is a Python-based tool designed to scrape data from XML sitemaps. It extracts URLs and the last modified date from a sitemap index and nested sitemaps, saving the results into a CSV or Excel file.
 
 ## Features
 
